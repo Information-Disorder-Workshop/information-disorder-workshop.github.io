@@ -2,6 +2,15 @@
 title: Organizers – Information Disorder Workshop (InDor)
 ---
 
+<p align="center">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/cfp' | relative_url }}">Call for Papers</a> ·
+  <a href="{{ '/dates' | relative_url }}">Important Dates</a> ·
+  <a href="{{ '/organizers' | relative_url }}"><strong>Organizers</strong></a>
+</p>
+
+---
+
 # Organizers
 
 The Information Disorder Workshop (InDor) is organized by:
