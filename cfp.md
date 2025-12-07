@@ -1,5 +1,5 @@
 ---
-title: Call for Papers – Information Disorder Workshop (InDor)
+title: Information Disorder Workshop (InDor)
 ---
 
 <p align="center">
