@@ -2,6 +2,15 @@
 title: Important Dates – Information Disorder Workshop (InDor)
 ---
 
+<p align="center">
+  <a href="{{ '/' | relative_url }}">Home</a> ·
+  <a href="{{ '/cfp' | relative_url }}">Call for Papers</a> ·
+  <a href="{{ '/dates' | relative_url }}"><strong>Important Dates</strong></a> ·
+  <a href="{{ '/organizers' | relative_url }}">Organizers</a>
+</p>
+
+---
+
 # Important Dates
 
 All deadlines are **23:59 AoE (Anywhere on Earth)** unless stated otherwise.
