@@ -1,6 +1,7 @@
 ---
-title: Important Dates – Information Disorder Workshop (InDor)
+title: Information Disorder Workshop (InDor)
 ---
+
 
 <p align="center">
   <a href="{{ '/' | relative_url }}">Home</a> ·
