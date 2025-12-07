@@ -131,4 +131,3 @@ For questions, please contact:
 **Simona Frenda** – Heriot-Watt University  
 📧 `s.frenda@hw.ac.uk`
 
-(Please mention “InDor Workshop” in the subject line.)
