@@ -167,7 +167,7 @@ See also the **[Important Dates](dates.md)** page.
 
 - **February 17, 2026** – Paper submission deadline  
 - **March 17, 2026** – Notification of acceptance  
-- **May 11–16, 2026** – InDor at LREC 2026 (exact day to be confirmed)
+- **May 12, 2026** – InDor at LREC 2026 (exact day to be confirmed)
 
 ---
 
