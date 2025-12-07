@@ -1,0 +1,16 @@
+---
+title: Important Dates – Information Disorder Workshop (InDor)
+---
+
+# Important Dates
+
+All deadlines are **23:59 AoE (Anywhere on Earth)** unless stated otherwise.
+(Adjust if LREC specifies a different convention.)
+
+- **February 17, 2026** – Paper submission deadline  
+- **March 17, 2026** – Notification of acceptance  
+- **May 11–16, 2026** – InDor at LREC 2026, Palma de Mallorca, Spain  
+  - (Exact workshop day to be confirmed within the LREC program)
+
+We recommend authors to check this page and the LREC 2026 website regularly for any
+updates or changes.
