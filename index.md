@@ -2,7 +2,17 @@
 title: Information Disorder Workshop (InDor)
 ---
 
+<p align="center">
+  <a href="{{ '/' | relative_url }}"><strong>Home</strong></a> ·
+  <a href="{{ '/cfp' | relative_url }}">Call for Papers</a> ·
+  <a href="{{ '/dates' | relative_url }}">Important Dates</a> ·
+  <a href="{{ '/organizers' | relative_url }}">Organizers</a>
+</p>
+
+---
+
 # Information Disorder Workshop (InDor)
+
 
 **Co-located with LREC 2026 – Palma de Mallorca, Spain**  
 **Palau de Congressos de Palma – 11–16 May 2026**  
