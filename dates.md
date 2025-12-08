@@ -19,7 +19,7 @@ All deadlines are **23:59 AoE (Anywhere on Earth)** unless stated otherwise.
 
 - **February 17, 2026** – Paper submission deadline  
 - **March 17, 2026** – Notification of acceptance
-- **March 30, 2026** - Camera ready submission
+- **March 30, 2026** – Camera ready submission
 - **May 12, 2026** – InDor at LREC 2026, Palma de Mallorca, Spain  
 
 We recommend authors to check this page and the LREC 2026 website regularly for any
