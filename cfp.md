@@ -167,7 +167,7 @@ See also the **[Important Dates](dates.md)** page.
 
 - **February 17, 2026** – Paper submission deadline  
 - **March 17, 2026** – Notification of acceptance
-- **March 30, 2026** - Camera ready submission
+- **March 30, 2026** – Camera ready submission
 - **May 12, 2026** – InDor at LREC 2026 (exact day to be confirmed)
 
 ---
