@@ -56,7 +56,7 @@ The InDor workshop aims to:
 
 The InDor workshop (half-day duration) will be co-located with the **15th biennial
 Language Resources and Evaluation Conference (LREC)**, held at the **Palau de Congressos
-de Palma** in Palma de Mallorca, Spain, on **11–16 May 2026**.
+de Palma** in Palma de Mallorca, Spain, on **12th of May 2026**.
 
 ---
 
