@@ -15,7 +15,7 @@ title: Information Disorder Workshop (InDor)
 
 
 **Co-located with LREC 2026 – Palma de Mallorca, Spain**  
-**Palau de Congressos de Palma – 11–16 May 2026**  
+**Palau de Congressos de Palma – 12 May 2026**  
 **Half-day workshop**
 
 Online disinformation is a pressing challenge for our societies. Its role in influencing
@@ -122,7 +122,7 @@ and Evaluation Conference (LREC 2026)**, to be held at the:
 
 **Palau de Congressos de Palma**  
 Palma de Mallorca, Spain  
-**Dates:** 11–16 May 2026
+**Dates:** 12 May 2026
 
 ---
 
