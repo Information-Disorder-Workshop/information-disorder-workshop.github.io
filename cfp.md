@@ -100,10 +100,10 @@ provided they:
 
 - Are accompanied by their reviews, and  
 - Fit the topic of the workshop.
-
+ 
 ---
 
-## Length & Formatting
+## Length, Formatting & Links
 
 - **Research papers** (archival or non-archival): **up to 8 pages** of content  
 - **Research communications**: **up to 1 page** of content  
@@ -115,6 +115,8 @@ formatting guidelines**. Templates and author kits are available at:
 
 Submissions must be **anonymous** and must conform to the instructions for
 **double-blind review**.
+
+Please make your submission 👉 <https://softconf.com/lrec2026/InDor26/> 
 
 ---
 
