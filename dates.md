@@ -17,7 +17,7 @@ title: Information Disorder Workshop (InDor)
 All deadlines are **23:59 AoE (Anywhere on Earth)** unless stated otherwise.
 (Adjust if LREC specifies a different convention.)
 
-- **February 17, 2026** – Paper submission deadline  
+- **February 24, 2026** – Paper submission deadline  
 - **March 17, 2026** – Notification of acceptance
 - **March 30, 2026** – Camera ready submission
 - **May 12, 2026** – InDor at LREC 2026, Palma de Mallorca, Spain  
