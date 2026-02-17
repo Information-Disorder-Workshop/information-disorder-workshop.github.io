@@ -90,12 +90,11 @@ We accept three types of submissions:
 
 1. **Regular research papers (archival)**  
 2. **Non-archival submissions**  
-   - Same format as research papers, but they **will not** be included in the LREC
-     proceedings  
+   - Same format as research papers, but they **will not** be included in the LREC proceedings. It can be short (4-page) or long (8-page) and can describe an ongoing research.
 3. **(Non-archival) research communications**  
-   - **1-page abstracts** summarising relevant research published elsewhere
+   - **1-page abstracts** summarising relevant research published elsewhere and will not be included in the proceedings. However, the review is double-blind (as required by LREC) so the communication should be anonymised. We recommend the use of the LREC template, where you can briefly describe in one section background, motivation, methods, and findings. There is no page limit for references.
 
-InDor will also accept submissions that have been **rejected from ACL Rolling Review**,
+InDor will also accept submissions that have been **rejected from ACL Rolling Review or other conferences (e.g., LREC)**,
 provided they:
 
 - Are accompanied by their reviews, and  
