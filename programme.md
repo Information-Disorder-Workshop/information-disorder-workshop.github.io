@@ -18,8 +18,6 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 **Room 5**
 
-**1st session 14.00-16.00**
-
 14.00-14.10 -- Workshop introduction 
 
 14.10-15.00 -- Keynote speech by **Prof. Claire Wardle**
@@ -35,8 +33,6 @@ Combating Disinformation: Is There No Alternative?
 15.15-15.45 -- Remote presentations
 
 **Coffe break 16.00-16.30**
-
-**2nd session 16.30-18.00**
 
 15.45-17.00 -- Poster presentations
 
