@@ -28,5 +28,5 @@ Coffe break 16.00-16.30
 2nd session 16.30-18.00
 - Poster presentations
 - Round table discussion
-- Closing
+- Closing remarks
 
