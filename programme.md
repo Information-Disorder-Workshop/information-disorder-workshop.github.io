@@ -32,11 +32,11 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 *Davide Bassi, Søren Kirkegaard Fomsgaard, Erik Bran Marino, Katarina Laken*
 
-15.15-15.45 -- Remote presentations
+15.15-16.00 -- Remote presentations
 
 **Coffee break 16.00-16.30**
 
-15.45-17.00 -- Poster presentations
+16.00-17.00 -- Poster presentations
 
 17.00-17.55 -- Round table discussion
 
