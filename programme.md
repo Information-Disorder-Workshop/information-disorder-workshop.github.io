@@ -22,11 +22,11 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 14.00-14.10 -- Workshop introduction 
 
-14.10-15.00 -- [Keynote speech by **Prof. Claire Wardle**]({{ '/keynote-speech' | relative_url }})
+14.10-15.00 -- [Keynote speech by **Prof. Claire Wardle**](keynote-speech.md)
 
 "Revisiting the Information Disorder Framework: Reflecting on the use and relevance of definitions in our contemporary ecosystems"
 
-15.00-15.15 -- [**Best paper awards celebration**]({{ '/best-paper' | relative_url }})
+15.00-15.15 -- [**Best paper awards celebration**](best-paper.md)
 
 "Combating Disinformation: Is There No Alternative?"
 
