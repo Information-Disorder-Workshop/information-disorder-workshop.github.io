@@ -21,7 +21,7 @@ The Information Disorder Workshop (InDor) is organized by:
 
 - **Simona Frenda**, Heriot-Watt University  
 - **Marco Antonio Stranisci**, University of Turin  
-- **Shaina Ashraf**, Philipps University of Marburg  
+- **Shaina Ashraf**, University of Bonn  
 - **Ada Ren**, Macquarie University  
 - **Ioannis Konstas**, Heriot-Watt University  
 - **Usman Naseem**, Macquarie University  
