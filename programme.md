@@ -34,7 +34,7 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 15.15-15.45 -- Remote presentations
 
-**Coffe break 16.00-16.30**
+**Coffee break 16.00-16.30**
 
 15.45-17.00 -- Poster presentations
 
