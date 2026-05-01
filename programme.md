@@ -89,6 +89,9 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
   _Mapping Discourse Reframing: A Multi-Layer Network Approach to Italian HPV Vaccine Discourse on X (2010-2024)_\
   Lorella Viola
 
+  _Down the Rabbit Hole: Red Teaming Chatbot Robustness Against Conspiracy Theories_\
+  Richard Sieg
+
 17.00-17.55 -- **Round table discussion**
 
 17.55-18.00 -- **Closing remarks**
