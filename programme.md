@@ -49,6 +49,9 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
   _Towards an Intelligent Assistive System for Contextualized Ad-Hoc Information Verification and Discernment_\
   Yunqian Bao and ChengXiang Zhai
 
+  _Beyond Information Threats: Identifying the Psychosocial Indicators of Conspiracy-driven Victimisation_\
+  Sundara Kashyap Vadapalli, Mioara Cristea and Katerina Strani
+
 **Coffee break 16.00-16.30**
 
 16.00-17.00 -- **Poster presentations**
@@ -70,9 +73,6 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
   _Efficient and Explainable Hate Speech Detection through Distillation, Reasoning, and Agentic AI_\
   Paloma Piot and Javier Parapar
-
-  _Beyond Information Threats: Identifying the Psychosocial Indicators of Conspiracy-driven Victimisation_\
-  Sundara Kashyap Vadapalli, Mioara Cristea and Katerina Strani
 
   _A Multilingual Linguistic Analysis of Human vs LLM-Generated News in a Disinformation Context_\
   Silvia Gargova, Alba Perez-Montero, Elena Lloret Pastor and Paloma Moreda Pozo
