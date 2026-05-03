@@ -9,7 +9,7 @@ title: Information Disorder Workshop (InDor)
   <a href="{{ '/programme' | relative_url }}"><strong>Programme</strong></a> ·
   <a href="{{ '/keynote-speech' | relative_url }}">Keynote Speech</a> ·
   <a href="{{ '/best-paper' | relative_url }}">Best Paper</a> ·
-  <a href="{{ '/organizers' | relative_url }}">Organizers</a>
+  <a href="{{ '/organizers' | relative_url }}">Organizers and PC</a>
 </p>
 
 ---
