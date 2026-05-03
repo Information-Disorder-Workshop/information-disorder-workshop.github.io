@@ -92,6 +92,8 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
   _Down the Rabbit Hole: Red Teaming Chatbot Robustness Against Conspiracy Theories_\
   Richard Sieg
 
-17.00-17.55 -- **Round table discussion**
+17.00-17.55 -- **Roundtable discussion**
+
+  _Claire Wardle, Antonio Lizzadri, Preslav Nakov, Iryna Gurevych, Vera Schmitt_\
 
 17.55-18.00 -- **Closing remarks**
