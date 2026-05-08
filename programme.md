@@ -94,6 +94,6 @@ Co-located with **LREC 2026** – Palma de Mallorca, Spain
 
 17.00-17.55 -- **Roundtable discussion**
 
-  _Claire Wardle, Antonio Lizzadri, Preslav Nakov, Iryna Gurevych, Vera Schmitt_\
+  _Claire Wardle, Antonio Lizzadri, Preslav Nakov, Iryna Gurevych, Vera Schmitt_
 
 17.55-18.00 -- **Closing remarks**
